@@ -4,8 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-{% if author.googlescholar %}
 AI-based College Course Selection Recommendation System: Performance Prediction and Curriculum Suggestions
 Yu Hsuan, Wu., Eric HsiaoKuang, Wu. (2020). &quot;AI-based College Course Selection Recommendation System: Performance Prediction and Curriculum Suggestions.&quot; <i>IEEE-IS3C 2020</i>.
 **This paper is about helping students on how to properly assign their credits into different courses, and analyzing the relationship between student's performance and different factors.**
