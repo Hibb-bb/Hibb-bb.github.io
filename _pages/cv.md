@@ -27,6 +27,10 @@ Work experience
   * Developed a golf swing posture analyzer.
   * Designed the golf swing posture analyzer model.
 
+* Anti-Drug Chatbot Team
+  * Team member under NLP branch
+  * The work was cooborated with [Education Bureau, Kaohsiung City Government](https://www.kcg.gov.tw/Organ_Detail.aspx?n=D33B55D537402BAA&sms=9F779BBA07F163E2&s=DF05EC41AFEF9C70)
+
 Skills
 ======
 * Pyrogramming Language
