@@ -36,8 +36,9 @@ Skills
   * C++
 * Natural language processing
 * Data analysis
+* Computer Vision
 
   
 Service and leadership
 ======
-* Rock climbing team Captain 2019
+* Rock Climbing Team Captain 2019
