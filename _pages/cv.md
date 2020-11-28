@@ -46,3 +46,4 @@ Skills
 Service and leadership
 ======
 * Rock Climbing Team Captain 2019
+* Amateur golfer

@@ -14,4 +14,6 @@ Hello, my name is Dennis Yu-Hsuan Wu. I'm studying computer science at National 
 
 Previously, I did serveral projects with my advisor [Prof. Hsiao-kuang Wu](http://wmlab.csie.ncu.edu.tw) about learning analysis and educational IoTs under [WMlab](http://wmlab.csie.ncu.edu.tw).
 
+Amateur golfer.
+
 Please feel free to contact me if you are interested in my research or you have any questions!
