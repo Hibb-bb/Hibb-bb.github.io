@@ -56,9 +56,9 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
+twitter: "https://twitter.com/hibb_bb"
   username               : &twitter
-facebook:
+facebook:  "https://www.facebook.com/dennis.wu.56232/"
   username               :
   app_id                 :
   publisher              :
