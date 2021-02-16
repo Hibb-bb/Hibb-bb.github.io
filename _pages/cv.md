@@ -13,6 +13,11 @@ Education
 ======
 * B.S. in Computer Science, National Central University, 2021
 
+Research Experience
+=====
+* Part-time Research Assistant: Academia Sinica NLPSA
+* Undergraduate Research Assistant: NCU WMLab
+
 Work experience
 ======
 * Summer 2020: Cinnamon-AI Intern
