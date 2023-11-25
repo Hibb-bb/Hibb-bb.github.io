@@ -2,7 +2,7 @@
 layout: index
 navigation: About
 title: " "
-image: '/images/pages/dennis.JPG'
+image: '/images/dennis.JPG'
 ---
 
 <h3> <span style="color:#8D4004">[I'm currently applying for PhD in machine learning starting at Fall 2024!!!]</span></h3>
