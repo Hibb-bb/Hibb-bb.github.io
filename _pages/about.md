@@ -14,7 +14,7 @@ Specifically, I am motivated to develop the theory behind foundational principle
 Recently, I am interested in the following questions:
 <ul>
     <li>How much information can a neural network memorize?</li>
-    <li> What latent space geometry looks like when the memorization is maximized?</li>
+    <li> Associative memory models </li>
     <li> The sparsity in neural networks</li>
 </ul> 
 
