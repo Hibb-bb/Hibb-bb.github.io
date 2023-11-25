@@ -5,7 +5,7 @@ title: " "
 image: '/images/pages/dennis.JPG'
 ---
 
-<h3> <span style="color:#DAA520">[I'm currently applying for PhD in machine learning starting at Fall 2024!!!]</span></h3>
+<h3> <span style="color:#8D4004">[I'm currently applying for PhD in machine learning starting at Fall 2024!!!]</span></h3>
 Greetings!
 
 I am currently pursuing my Masters degree at Northwestern University advised by Prof. Han Liu.
