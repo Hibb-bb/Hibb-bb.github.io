@@ -1,30 +1,14 @@
 ---
-layout: about
-title: about
-permalink: /
-# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
-
-profile:
-  align: right
-  image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+layout: index
+navigation: About
+title: " "
+image: '/images/pages/IMG_4270.jpeg'
 ---
+Hi! I am a second-year PhD student in [**Machine Learning**](https://www.ml.cmu.edu/) at Carnegie Mellon University. I am advised by [**Zico Kolter**](https://zicokolter.com/) and  [**Aditi Raghunathan**](https://www.cs.cmu.edu/~aditirag/) . I completed my 5th year Master's at UC Berkeley advised by [**Yi Ma**](https://people.eecs.berkeley.edu/~yima/). Previously, I received my B.S. in Electrical Engineering and Computer Science at UC Berkeley with a minor in Bioengineering.
 
+I am broadly interested in **theoretical machine learning**, **nonconvex optimization**, and their applications to **genetics and healthcare**. Currently, my research focuses on **out-of-distribution generalization**. Specifically, I want to better understand distribution shifts that occur in the wild and design ways to assess/improve the model's performance under such shifts with limited labeled data. I am also interested in investigating how models can be optimized to continuously adapt to new information. 
 
-<h3> <span style="color:#DAA520">[I'm currently applying for PhD in machine learning starting at Fall 2024!!!]</span></h3>
-Greetings!
+Email: kbaek@andrew.cmu.edu \
+[Publications](https://kebaek.github.io/publications.html) / [Google Scholar](https://scholar.google.com/citations?user=8jVzL_YAAAAJ&hl=en) / [CV](https://kebaek.github.io/data/Baek_Resume.pdf)
 
-I am currently pursuing my Masters degree at Northwestern University advised by Prof. Han Liu.
-My research interest lies in developing theoretical foundations for modern machine learning methods.
-Specifically, I am motivated to develop the theory behind foundational principles that can be used to evaluate or explain novel ML paradigms.
-Recently, I am interested in the following questions:
-<ul>
-    <li>How much information can a neural network memorize?</li>
-    <li> What latent space geometry looks like when the memorization is maximized?</li>
-    <li> The sparsity in neural networks</li>
-</ul> 
+<sub>Last updated Oct 17, 2022 </sub>
