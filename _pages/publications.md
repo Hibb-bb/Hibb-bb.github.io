@@ -22,7 +22,7 @@ Jerry Yao-Chieh Hu, Donglin Yang, **Dennis Wu**, Chenwei Xu, Bo-Yu Chen, Han Liu
 
 **<span style="color:#0077be"> Detecting Inaccurate Sensors on a Large-Scale Sensor Network Using Centralized and Localized Graph Neural Networks</span>**
 [\[IEEE\]](https://ieeexplore.ieee.org/abstract/document/10159566)<br/> **Dennis Wu**, Tsu-Heng Lin, Xin-Ru Zhang, Chia-Pan Chen, Jia-Hui Chen, Hung-Hsuan Chen <br/> 
-<em> - IEEE Sensors  <span style="color:#ea6a05">**Featured Article**  </span></em> <br/>
+<em> IEEE Sensors  <span style="color:#ea6a05">**Featured Article**  </span></em> <br/>
 
 **<span style="color:#0077be "> Associated learning: an alternative to end-to-end backpropagation that works on cnn, rnn, and transformer</span>**
 [\[ICLR\]](https://in.ncu.edu.tw/~hhchen/academic_works/wu22-associated.pdf)<br/> 
