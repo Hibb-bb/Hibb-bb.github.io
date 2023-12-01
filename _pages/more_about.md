@@ -22,6 +22,7 @@ Recently, I am interested in the following questions:
 
 Email: hibb@u.northwestern.edu \
 [Publications](https://hibb-bb.github.io/publications.html) / [Google Scholar](https://scholar.google.com/citations?user=rmm9zw0AAAAJ&hl=en&oi=sra) 
-/ [CV](https://hibb-bb.github.io/data/Dennis_CV_for_PhD.pdf)
 
-<sub>Last updated Dec 1, 2023 </sub>
+<!-- / [CV](https://kebaek.github.io/data/Baek_Resume.pdf) -->
+
+<sub>Last updated Nov 25, 2023 </sub>
