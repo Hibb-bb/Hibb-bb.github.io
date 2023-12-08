@@ -13,6 +13,7 @@ baseurl:     '' # The subpath of your site, e.g. /blog
 url:         hibb-bb.gihub.io # The base hostname & protocol for your site
 github:      https://github.com/Hibb-bb
 linkedin: https://www.linkedin.com/in/dennis-wu-501b911a3/
+twitter: https://twitter.com/hibb_bb/
 
 markdown:  kramdown
 permalink: pretty
