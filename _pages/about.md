@@ -14,8 +14,9 @@ Specifically, I am motivated to develop the theory behind foundational principle
 Recently, I am interested in the following questions:
 <ul>
     <li>How much information can a neural network memorize?</li>
-    <li> Associative memory models </li>
-    <li> The sparsity in neural networks</li>
+    <li>Associative memory models </li>
+    <li>The sparsity in neural networks</li>
+    <li>The data geometry of representation learning</li>
 </ul> 
 
 
