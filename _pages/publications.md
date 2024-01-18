@@ -7,6 +7,11 @@ image: '/images/pages/train_header.gif'
 See [Google Scholar](https://scholar.google.com/citations?user=rmm9zw0AAAAJ&hl=en&oi=sra) for full details.<br/>
 <sub> * denotes equal contribution </sub>
 
+**<span style="color:#0077be "> STanHop: Sparse Tandem Hopfield Model for Memory-Enhanced Time Series Prediction</span>**
+[\[ICLR\]](https://openreview.net/pdf?id=6iwg437CZs)<br/> 
+Dennis Wu*, Jerry Yao-Chieh Hu*, Weijian Li*, Bo-Yu Chen, Han Liu  <br>
+<em> ICLR 2024 </em> <br/>
+
 **<span style="color:#0077be "> On Sparse Modern Hopfield Model</span>**
 [\[NeruIPS\]](https://arxiv.org/abs/2309.12673)<br/> 
 Jerry Yao-Chieh Hu, Donglin Yang, **Dennis Wu**, Chenwei Xu, Bo-Yu Chen, Han Liu <br>
