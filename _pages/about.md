@@ -5,8 +5,6 @@ title: " "
 image: '/images/dennis.JPG'
 ---
 
-<h3> <span style="color:#FA2A55">[Update: Got one 1st author paper accepted to ICLR, its cool but I care about my phd application more at the moment ngl.]</span></h3>
-
 <h3> <span style="color:#8D4004">[I'm currently applying for PhD in machine learning starting at Fall 2024!!!]</span></h3>
 Greetings!
 
@@ -20,7 +18,6 @@ Recently, I am interested in the following questions:
     <li>The sparsity in neural networks</li>
     <li>The data geometry of representation learning</li>
 </ul> 
-
 
 
 Email: hibb@u.northwestern.edu \
