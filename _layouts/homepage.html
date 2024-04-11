@@ -35,23 +35,42 @@
     {% endif %}
 
     <style>
-    .header {
-      padding: 20px;
-      float: left;
-      text-align: center;
+      .header {
+      overflow: hidden;
       background-color: #4E2A84;
-      color: #FFFFFF;
-      font-size: 20px;
+      padding: 20px 10px;
+    }
+    
+    .header a {
+      float: left;
+      color: white;
+      text-align: center;
+      padding: 12px;
+      text-decoration: none;
+      font-size: 18px; 
+      line-height: 25px;
+      border-radius: 4px;
+    }
+    
+    .header a.logo {
+      font-size: 25px;
+      font-weight: bold;
       font-family: "Georgia", Times, serif;
-    }    
+    }
+
     </style>
 
   </head>
   <body>
 
-    <div class="header">
-      <a href="#default" class="logo">Northwestern</a>
+  <div class="header">
+    <a href="#default" class="logo">Northwestern</a>
+    <div class="header-right">
+      <a class="active" href="#home"></a>
+      <a href="#contact"></a>
+      <a href="#about"></a>
     </div>
+  </div>
     
     <div class="wrapper">
       <header>
