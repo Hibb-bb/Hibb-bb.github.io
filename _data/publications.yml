@@ -2,49 +2,26 @@ main:
 
   - title: "Associated learning: an alternative to end-to-end backpropagation that works on cnn, rnn, and transformer"
     authors: <strong>Dennis Wu</strong>, Dinan Lin, Vincent Chen, Hung-Hsuan Chen
-    conference_short: ICLR
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2021.
     pdf: https://openreview.net/pdf?id=4N-17dske79
 
-  # - title: On sparse modern hopfield model
-  #   authors: Jerry Yao-Chieh Hu, Donglin Yang, <strong>Dennis Wu</strong>, Chenwei Xu, Bo-Yu Chen, Han Liu
-  #   conference_short: NeurIPS
-  #   conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
-  #   pdf: https://proceedings.neurips.cc/paper_files/paper/2023/file/57bc0a850255e2041341bf74c7e2b9fa-Paper-Conference.pdf
-  #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-  #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   notes: Oral Presentation
-  #   image: ./assets/img/teaser_example.png
+  - title: On sparse modern hopfield model
+    authors: Jerry Yao-Chieh Hu, Donglin Yang, <strong>Dennis Wu</strong>, Chenwei Xu, Bo-Yu Chen, Han Liu
+    conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
+    pdf: https://proceedings.neurips.cc/paper_files/paper/2023/file/57bc0a850255e2041341bf74c7e2b9fa-Paper-Conference.pdf
 
-  # - title: StanHop: Sparse tandem hopfield model for memory-enhanced time series prediction
-  #   authors: *<strong>Dennis Wu</strong>, *Jerry Yao-Chieh Hu, *Weijian Li, Bo-Yu Chen, Han Liu
-  #   conference_short: ICLR
-  #   conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
-  #   pdf: https://openreview.net/pdf?id=6iwg437CZs
-  #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-  #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   notes: Oral Presentation
-  #   image: ./assets/img/teaser_example.png
+  - title: StanHop: Sparse tandem hopfield model for memory-enhanced time series prediction
+    authors: *<strong>Dennis Wu</strong>, *Jerry Yao-Chieh Hu, *Weijian Li, Bo-Yu Chen, Han Liu
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
+    pdf: https://openreview.net/pdf?id=6iwg437CZs
 
-  # - title: HonestBait: Forward References for Attractive but Faithful Headline Generation
-  #   authors: *Chih-Yao Chen, *<strong>Dennis Wu</strong>, Lun-Wei Ku
-  #   conference_short: ACL Findings
-  #   conference: Findings of the Association for Computational Linguistics: ACL 2023.
-  #   pdf: https://arxiv.org/pdf/2306.14828
-  #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-  #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   notes: Oral Presentation
-  #   image: ./assets/img/teaser_example.png
+  - title: HonestBait: Forward References for Attractive but Faithful Headline Generation
+    authors: *Chih-Yao Chen, *<strong>Dennis Wu</strong>, Lun-Wei Ku
+    conference: Findings of the Association for Computational Linguistics: ACL 2023.
+    pdf: https://arxiv.org/pdf/2306.14828
 
-  # - title: Detecting inaccurate sensors on a large-scale sensor network using centralized and localized graph neural networks
-  #   authors: <strong>Dennis Wu</strong>, Tsu-Heng Lin, Xin-Ru Zhang, Chia-Pan Chen, Jia-Hui Chen, Hung-Hsuan Chen
-  #   conference_short: IEEE Sensors Journal (Aug 2023)
-  #   pdf: https://in.ncu.edu.tw/~hhchen/academic_works/wu23-detecting.pdf
-  #   notes: Feautred Article
-  #   code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-  #   page: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-  #   image: ./assets/img/teaser_example.png
+  - title: Detecting inaccurate sensors on a large-scale sensor network using centralized and localized graph neural networks
+    authors: <strong>Dennis Wu</strong>, Tsu-Heng Lin, Xin-Ru Zhang, Chia-Pan Chen, Jia-Hui Chen, Hung-Hsuan Chen
+    conference: IEEE Sensors Journal (Aug 2023)
+    pdf: https://in.ncu.edu.tw/~hhchen/academic_works/wu23-detecting.pdf
+    notes: Feautred Article
