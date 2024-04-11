@@ -15,6 +15,7 @@ My research interests are in the areas of  machine learning, data geometry, asso
 - **[Nov. 2023]** One paper is accepted to ICLR 2024.
 
 ## Timmy Turner
+![alt text](tt.png)
 
 
 {% include_relative _includes/publications.md %}
