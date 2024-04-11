@@ -4,11 +4,13 @@ main:
     authors: <strong>Dennis Wu</strong>, Jerry Yao-Chieh Hu, Weijian Li, Bo-Yu Chen, Han Liu
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
     pdf: https://openreview.net/pdf?id=6iwg437CZs
-    
+    code: https://github.com/MAGICS-LAB/STanHop
+
   - title: "On Sparse Modern Hopfield Model"
     authors: Jerry Yao-Chieh Hu, Donglin Yang, <strong>Dennis Wu</strong>, Chenwei Xu, Bo-Yu Chen, Han Liu
     conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2023.
     pdf: https://proceedings.neurips.cc/paper_files/paper/2023/file/57bc0a850255e2041341bf74c7e2b9fa-Paper-Conference.pdf
+    code: https://github.com/MAGICS-LAB/SparseModernHopfield
 
   - title: "HonestBait: Forward References for Attractive but Faithful Headline Generation"
     authors: Chih-Yao Chen, <strong>Dennis Wu</strong>, Lun-Wei Ku
@@ -20,8 +22,10 @@ main:
     conference: IEEE Sensors Journal (Aug 2023)
     pdf: https://in.ncu.edu.tw/~hhchen/academic_works/wu23-detecting.pdf
     notes: Feautred Article
+    code: https://github.com/ncu-dart/Anomaly-Detecting-Framework-Base-on-Deep-Spatial-Temporal-Graph-Model
 
   - title: "Associated Learning: An Alternative to End-to-End Backpropagation that Works on CNN, RNN, and Transformer"
     authors: <strong>Dennis Wu</strong>, Dinan Lin, Vincent Chen, Hung-Hsuan Chen
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2022.
     pdf: https://openreview.net/pdf?id=4N-17dske79
+    code: https://github.com/Hibb-bb/AL
