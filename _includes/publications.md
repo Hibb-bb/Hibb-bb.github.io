@@ -9,7 +9,7 @@
 
 <style>
   .pub-row {
-    margin-bottom: -8px; /* Adjust as needed */
+    margin-bottom: -40px; /* Adjust as needed */
     margin-top: -4px; /* Adjust as needed */
 }
 </style>
