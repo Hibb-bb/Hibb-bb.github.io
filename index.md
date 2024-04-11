@@ -9,6 +9,10 @@ Currently, I'm part of the MAGICS lab.
 
 My research interests are in the areas of  machine learning, data geometry, associative memory and time series prediction.
 
+> *"I get papers published, thats my stuff."*
+>
+> - Dennis Wu
+
 ## News
 
 - **[Apr. 2024]** I will be attending ICLR 2024.
