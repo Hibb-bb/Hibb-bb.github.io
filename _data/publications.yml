@@ -5,11 +5,6 @@ main:
     conference_short: ICLR
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2021.
     pdf: https://openreview.net/pdf?id=4N-17dske79
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
 
   # - title: On sparse modern hopfield model
   #   authors: Jerry Yao-Chieh Hu, Donglin Yang, <strong>Dennis Wu</strong>, Chenwei Xu, Bo-Yu Chen, Han Liu
