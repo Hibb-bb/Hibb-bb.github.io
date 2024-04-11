@@ -4,19 +4,20 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am an incoming Ph.D. student at  Northwestern University.
+I'm a member of the MAGICS lab.
 
-## Research Interests
+My research interests are in the areas of general machine learning, data geometry, associative memory and time series prediction.
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+
+
+- **Associative Memory:** Hpo
+- **Time Series Prediction:** meta-learning, incremental learning, transfer learning
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Apr. 2024]** I will be attending ICLR 2024.
+- **[Nov. 2023]** One paper is accepted to ICLR 2024.
 
 {% include_relative _includes/publications.md %}
 
