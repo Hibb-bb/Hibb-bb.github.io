@@ -5,9 +5,9 @@ layout: homepage
 ## About Me
 
 I am an incoming Ph.D. student at  Northwestern University.
-I'm a member of the MAGICS lab.
+Currently, I'm part of the MAGICS lab.
 
-My research interests are in the areas of general machine learning, data geometry, associative memory and time series prediction.
+My research interests are in the areas of  machine learning, data geometry, associative memory and time series prediction.
 
 ## News
 
