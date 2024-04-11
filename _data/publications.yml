@@ -15,10 +15,10 @@ main:
   #   conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
   #   pdf: https://openreview.net/pdf?id=6iwg437CZs
 
-  # - title: "HonestBait: Forward References for Attractive but Faithful Headline Generation"
-  #   authors: *Chih-Yao Chen, *<strong>Dennis Wu</strong>, Lun-Wei Ku
-  #   conference: Findings of the Association for Computational Linguistics: ACL 2023.
-  #   pdf: https://arxiv.org/pdf/2306.14828
+  - title: "HonestBait: Forward References for Attractive but Faithful Headline Generation"
+    authors: *Chih-Yao Chen, *<strong>Dennis Wu</strong>, Lun-Wei Ku
+    conference: Findings of the Association for Computational Linguistics: ACL 2023.
+    pdf: https://arxiv.org/pdf/2306.14828
 
   - title: Detecting inaccurate sensors on a large-scale sensor network using centralized and localized graph neural networks
     authors: <strong>Dennis Wu</strong>, Tsu-Heng Lin, Xin-Ru Zhang, Chia-Pan Chen, Jia-Hui Chen, Hung-Hsuan Chen
