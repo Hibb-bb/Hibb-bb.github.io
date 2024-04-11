@@ -16,7 +16,7 @@ main:
     pdf: https://openreview.net/pdf?id=6iwg437CZs
 
   - title: "HonestBait: Forward References for Attractive but Faithful Headline Generation"
-    authors: *Chih-Yao Chen, <strong>*Dennis Wu</strong>, Lun-Wei Ku
+    authors: "*Chih-Yao Chen", <strong>*Dennis Wu</strong>, Lun-Wei Ku
     conference: "Findings of the Association for Computational Linguistics: ACL 2023."
     pdf: https://arxiv.org/pdf/2306.14828
 
