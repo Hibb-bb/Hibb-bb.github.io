@@ -17,7 +17,7 @@ main:
     # notes: Oral Presentation
     # image: ./assets/img/teaser_example.png
 
-    - title: StanHop: Sparse tandem hopfield model for memory-enhanced time series prediction
+  - title: StanHop: Sparse tandem hopfield model for memory-enhanced time series prediction
     authors: *<strong>Dennis Wu</strong>, *Jerry Yao-Chieh Hu, *Weijian Li, Bo-Yu Chen, Han Liu
     conference_short: ICLR
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
@@ -28,13 +28,13 @@ main:
     # notes: Oral Presentation
     # image: ./assets/img/teaser_example.png
 
-    - title: HonestBait: Forward References for Attractive but Faithful Headline Generation
+  - title: HonestBait: Forward References for Attractive but Faithful Headline Generation
     authors: *Chih-Yao Chen, *<strong>Dennis Wu</strong>, Lun-Wei Ku
     conference_short: ACL Findings
     conference: Findings of the Association for Computational Linguistics: ACL 2023.
     pdf: https://arxiv.org/pdf/2306.14828
 
-    - title: Detecting inaccurate sensors on a large-scale sensor network using centralized and localized graph neural networks
+  - title: Detecting inaccurate sensors on a large-scale sensor network using centralized and localized graph neural networks
     authors: <strong>Dennis Wu</strong>, Tsu-Heng Lin, Xin-Ru Zhang, Chia-Pan Chen, Jia-Hui Chen, Hung-Hsuan Chen
     conference_short: IEEE Sensors Journal (Aug 2023)
     pdf: https://in.ncu.edu.tw/~hhchen/academic_works/wu23-detecting.pdf
