@@ -6,8 +6,8 @@
     <li>
       <style>
         .pub-row {
-          margin-bottom: 4px; /* Reduced margin for smaller space */
-          margin-top: 4px; /* Reduced margin for smaller space */
+          margin-bottom: -2px; /* Reduced margin for smaller space */
+          margin-top: -2px; /* Reduced margin for smaller space */
         }
       </style>
 
