@@ -1,6 +1,6 @@
 main:
 
-  - title: Associated learning: an alternative to end-to-end backpropagation that works on cnn, rnn, and transformer
+  - title: "Associated learning: an alternative to end-to-end backpropagation that works on cnn, rnn, and transformer"
     authors: <strong>Dennis Wu</strong>, Dinan Lin, Vincent Chen, Hung-Hsuan Chen
     conference_short: ICLR
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2021.
