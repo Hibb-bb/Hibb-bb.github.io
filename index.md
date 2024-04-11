@@ -20,5 +20,3 @@ My research interests are in the areas of general machine learning, data geometr
 - **[Nov. 2023]** One paper is accepted to ICLR 2024.
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
