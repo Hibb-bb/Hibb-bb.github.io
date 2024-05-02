@@ -1,5 +1,11 @@
 main:
 
+  - title: "Uniform Memory Retrieval with Larger Capacity for Modern Hopfield Models"
+    authors: <strong>Dennis Wu</strong>, Jerry Yao-Chieh Hu, Teng-Yun Shiao, Han Liu
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2024.
+    pdf: https://arxiv.org/abs/2404.03827
+    code: https://arxiv.org/abs/2404.03827 
+
   - title: "StanHop: Sparse Tandem Hopfield Model for Memory-Enhanced Time Series Prediction"
     authors: <strong>Dennis Wu</strong>, Jerry Yao-Chieh Hu, Weijian Li, Bo-Yu Chen, Han Liu
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2024.
