@@ -13,6 +13,7 @@ My research interests are in the areas of  machine learning, data geometry, asso
 
 ## News
 
+- **[May. 2024]** Yes.
 - **[Apr. 2024]** Will my papers get accepted by ICML 2024?
 - **[Apr. 2024]** I will be attending ICLR 2024.
 - **[Nov. 2023]** One paper is accepted to ICLR 2024.
