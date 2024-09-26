@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an incoming Ph.D. student at  Northwestern University.
+I am an Ph.D. student at  Northwestern University.
 Currently, I'm part of the [MAGICS lab](https://magics.cs.northwestern.edu/index.html) at Northwestern.
 
 My research interests are in the areas of machine learning and associative memory.
@@ -13,6 +13,7 @@ My research interests are in the areas of machine learning and associative memor
 
 ## News
 
+- **[Sep. 2024]** Yes.
 - **[Aug. 2024]** Will my paper get accepted by NeurIPS 2024?
 - **[May. 2024]** Yes.
 - **[Apr. 2024]** Will my papers get accepted by ICML 2024?
