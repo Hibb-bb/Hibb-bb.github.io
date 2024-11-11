@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am an Ph.D. student at  Northwestern University.
+I am a 1st year PhD student at Northwestern University.
 Currently, I'm part of the [MAGICS lab](https://magics.cs.northwestern.edu/index.html) at Northwestern.
 
 I mostly do theoretical machine learning.
