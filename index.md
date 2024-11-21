@@ -26,7 +26,7 @@ I mostly do theoretical machine learning.
 ![alt text](./tt.jpg)
 
 ## Chihuahua (1)
-![alt text](./chichi.png)
+![alt text](./chichi2.jpg)
 
 ## El Paso Chihuahua (Minor League Baseball)
 ![alt text](./elpaso.jpg)
