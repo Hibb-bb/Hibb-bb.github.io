@@ -24,3 +24,10 @@ I mostly do theoretical machine learning.
 
 ## Timmy Turner
 ![alt text](./tt.jpg)
+
+## Chihuahua (1)
+![alt text](./chichi.png)
+
+## El Paso Chihuahua (Minor League Baseball)
+![alt text](./elpaso.jpg)
+
