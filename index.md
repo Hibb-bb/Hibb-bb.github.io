@@ -13,6 +13,7 @@ I mostly do theoretical machine learning.
 
 ## News
 
+- **[Dec. 2024]** I will be attending NeurIPS 2024.
 - **[Sep. 2024]** Yes.
 - **[Aug. 2024]** Will my paper get accepted by NeurIPS 2024?
 - **[May. 2024]** Yes.
