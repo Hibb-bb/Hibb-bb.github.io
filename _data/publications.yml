@@ -1,5 +1,11 @@
 main:
 
+  - title: "Provably Optimal Memory Capacity for Modern Hopfield Models: Transformer-Compatible Dense Associative Memories as Spherical Codes"
+    authors:  Jerry Yao-Chieh Hu, <strong>Dennis Wu</strong>, Han Liu
+    conference: Advances in Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2024.
+    pdf: https://arxiv.org/abs/2410.23126
+    code: https://github.com/MAGICS-LAB/Optimal-Hopfield-Memory
+
   - title: "Uniform Memory Retrieval with Larger Capacity for Modern Hopfield Models"
     authors: <strong>Dennis Wu</strong>, Jerry Yao-Chieh Hu, Teng-Yun Shiao, Han Liu
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2024.
