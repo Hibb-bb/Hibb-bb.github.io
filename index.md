@@ -9,8 +9,6 @@ Currently, I'm part of the [MAGICS lab](https://magics.cs.northwestern.edu/index
 
 I mostly do theoretical machine learning.
 
-*Big as the what?*
-
 ## News
 
 - **[Sep. 2025]** Honored to receive the [Northwestern Cognitive Science Graduate Fellowship](https://cogsci.northwestern.edu/graduate/funding_for_graduate_specialists/advanced_fellowship_details.html).
