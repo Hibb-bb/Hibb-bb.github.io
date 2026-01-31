@@ -18,7 +18,7 @@ Currently, I'm part of the [MAGICS lab](https://magics.cs.northwestern.edu/index
 - **[Apr. 2024]** I will be attending ICLR 2024.
 - **[Nov. 2023]** One paper is accepted to ICLR 2024.
 
-{% include_relative _includes/publications.md %}
+<!-- {% include_relative _includes/publications.md %} -->
 
 ## Timmy Turner
 ![alt text](./tt.jpg)
