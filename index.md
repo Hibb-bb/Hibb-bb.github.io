@@ -24,3 +24,7 @@ I also work closely with the [Fitzgerald lab](https://sites.northwestern.edu/fit
 ## Timmy Turner
 ![alt text](./tt.jpg)
 
+
+## Me
+
+![alt text](./A_me.jpeg)
