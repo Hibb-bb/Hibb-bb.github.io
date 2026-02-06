@@ -6,6 +6,7 @@ layout: homepage
 
 I am a 2nd year PhD student at Northwestern University.
 Currently, I'm part of the [MAGICS lab](https://magics.cs.northwestern.edu/index.html) at Northwestern.
+I also work closely with the [Fitzgerald lab](https://sites.northwestern.edu/fitzgeraldlab/).
 
 ## News
 
