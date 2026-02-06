@@ -27,4 +27,4 @@ I also work closely with the [Fitzgerald lab](https://sites.northwestern.edu/fit
 
 ## Me
 
-![alt text](./A_me.jpeg)
+<img src="./A_me.jpeg" width="300">
