@@ -11,7 +11,7 @@ I also work closely with the [Fitzgerald lab](https://sites.northwestern.edu/fit
 ## News
 
 - **[May 2026]** Yes.
-- **[Apr. 2026]** Will my paper get accepted by ICMl 2026?
+- **[Apr. 2026]** Will my paper get accepted by ICML 2026?
 - **[Mar. 2026]** Several papers got accepted but I forgot to update my website.
 - **[Sep. 2025]** Honored to receive the [Northwestern Cognitive Science Graduate Fellowship](https://cogsci.northwestern.edu/graduate/funding_for_graduate_specialists/advanced_fellowship_details.html).
 - **[Dec. 2024]** I will be attending NeurIPS 2024.
